@@ -1,6 +1,6 @@
-# gnosisMultiWallet-hashsum
+## gnosisMultiWallet-hashsum
 
-2020.0707-1.6.0
+版本2020.0707-1.6.0
 hash校验值
 ```shell
 016cfde7c97025aa8ea0802030e82ed05d2d3ca8  multisigweb_1.6.0_amd64.deb.zip
